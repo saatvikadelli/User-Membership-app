@@ -1,0 +1,33 @@
+/* LoginScreen.css */
+
+body{
+    background-image: url('data:image/svg+xml,<svg width="722" height="390" viewBox="0 0 722 390" fill="none" xmlns="http://www.w3.org/2000/svg"><g clip-path="url(%23clip0_2_52)"><rect width="722" height="390" fill="white"/><rect width="722" height="390" fill="%230F0421"/><mask id="mask0_2_52" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="722" height="390"><rect width="722" height="390" fill="%230F0421"/></mask><g mask="url(%23mask0_2_52)"><g filter="url(%23filter0_f_2_52)"><path fill-rule="evenodd" clip-rule="evenodd" d="M399.1 187.913C456.254 189.105 521.249 152.174 563.914 196.035C607.147 240.481 587.716 319.434 591.829 386.047C596.505 461.797 636.365 552.198 589.173 605.179C541.981 658.159 462.539 622.852 399.1 602.415C354.374 588.006 324.943 547.256 292.052 509.46C259.07 471.56 221.236 438.371 210.811 386.047C197.486 319.166 184.249 235.296 228.212 189.034C271.95 143.009 339.892 186.679 399.1 187.913Z" fill="%23C53998"/></g><g filter="url(%23filter1_f_2_52)"><path fill-rule="evenodd" clip-rule="evenodd" d="M218.252 -3.47815C279.041 5.67544 286.925 79.1269 327.558 121.066C373.444 168.428 471.099 188.164 464.7 250.893C458.209 314.526 367.874 334.032 303.216 359.682C242.853 383.627 173.486 420.614 117.995 388.429C64.6502 357.488 90.0149 285.266 77.869 228.978C66.6225 176.859 23.1881 126.068 51.3281 79.4716C83.3614 26.4286 152.377 -13.3977 218.252 -3.47815Z" fill="%237721D6"/></g><g filter="url(%23filter2_f_2_52)"><path fill-rule="evenodd" clip-rule="evenodd" d="M236.723 142.229C302.793 157.614 311.865 247.817 345.495 309.414C368.981 352.43 398.758 389.634 398.864 439.202C399.019 511.836 403.451 597.943 346.2 638.813C283.809 683.353 199.142 664.671 131.145 630.322C63.1538 595.977 7.93658 536.34 -9.23288 459.266C-26.5042 381.735 -3.89274 300.972 44.0192 239.214C91.3284 178.233 163.546 125.189 236.723 142.229Z" fill="%236D459A"/></g><g filter="url(%23filter3_f_2_52)"><path fill-rule="evenodd" clip-rule="evenodd" d="M543.87 -174.232C612.044 -182.856 692.536 -160.154 724.938 -101.285C754.89 -46.8674 692.865 8.64399 677.474 68.507C662.855 125.363 689.592 198.931 639.385 231.46C586.363 265.812 516.748 236.199 458.96 210.079C399.878 183.375 332.494 150.505 322.091 88.0456C312.039 27.6935 373.703 -14.6574 413.659 -61.9102C452.419 -107.748 483.296 -166.57 543.87 -174.232Z" fill="%23AA436F"/></g></g></g><defs><filter id="filter0_f_2_52" x="-2" y="-32" width="814" height="865" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur stdDeviation="100" result="effect1_foregroundBlur_2_52"/></filter><filter id="filter1_f_2_52" x="-158" y="-205" width="823" height="806" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur stdDeviation="100" result="effect1_foregroundBlur_2_52"/></filter><filter id="filter2_f_2_52" x="-215" y="-61" width="814" height="926" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur stdDeviation="100" result="effect1_foregroundBlur_2_52"/></filter><filter id="filter3_f_2_52" x="121" y="-376" width="812" height="823" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB"><feFlood flood-opacity="0" result="BackgroundImageFix"/><feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/><feGaussianBlur stdDeviation="100" result="effect1_foregroundBlur_2_52"/></filter><clipPath id="clip0_2_52"><rect width="722" height="390" fill="white"/></clipPath></defs></svg>');
+    background-size: cover;
+    height: 100vh;
+
+}
+
+
+
+#containerMain{
+    padding-top: 400px;
+}
+
+
+#label{
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+
+
+
+#button{
+    background-image: linear-gradient(#0e1850,#3e4bb0) ;
+}
+ h1{
+    font-family: sans-serif;
+    
+ }
+
+ 
+
